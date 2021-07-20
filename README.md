@@ -4,7 +4,7 @@ The collection of autosplitters for [Little Nightmares](https://store.steampower
 
 If there is any issue with any autosplitters, feel free to contact me at Discord `geerky42#3712`, or you can create [an issue here](https://github.com/geerky42/Little-Nightmares-Autosplitters/issues/new).
 
-#### How to Use Autosplitter (WIP)
+#### [How to Use Autosplitter (WIP)](https://github.com/geerky42/Little-Nightmares-Autosplitters/blob/main/TUTORIAL.md)
 
 <br/>
 
